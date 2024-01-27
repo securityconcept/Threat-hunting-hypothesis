@@ -1,0 +1,53 @@
+Threat huting hypothesis:
+
+50 THREAT HUNTING HYPOTHESIS EXAMPLES
+I believe that an attacker is exfiltrating data from our network through a specific port that has seen an increase in traffic in the past week.
+I think that an adversary is using a certain type of malware to compromise our systems and is using a specific command and control server to communicate with the infected systems.
+I suspect that an insider is intentionally leaking sensitive information to a competitor based on a pattern of access to certain files and communication with the competitor’s employees.
+I hypothesize that a group of attackers is attempting to gain access to our network through vulnerable remote access protocols.
+I believe that an adversary is using a certain type of phishing attack to gain access to our systems and is targeting a specific group of employees.
+I think that an attacker is using a specific type of exploit to gain access to our systems and is using a particular tool to move laterally within our network.
+I suspect that an adversary is attempting to gain access to our systems through a zero-day vulnerability that has not yet been patched.
+I hypothesize that a group of attackers is using a specific type of malware to mine cryptocurrency on our systems.
+I believe that an adversary is using a certain type of ransomware to compromise our systems and is targeting a specific group of employees with the ransom demands.
+I think that an attacker is using a particular type of denial of service attack to disrupt our systems and is targeting a specific group of users.”
+An adversary is attempting to exfiltrate sensitive data through a specific network port.
+A new strain of malware is being distributed through email attachments.
+An adversary is using a specific tool to establish a foothold in the network.
+A group of compromised devices are communicating with a known Command and Control server.
+An adversary is attempting to escalate privileges on targeted systems.
+An insider threat is attempting to access and steal sensitive data.
+A group of systems are exhibiting unusual network traffic patterns.
+An adversary is using a specific exploit to compromise systems.
+A device on the network is communicating with a suspicious domain.
+An adversary is using a specific type of encryption to evade detection.
+A specific user account has been the source of multiple network intrusions.
+An increase in the number of failed login attempts suggests a brute force attack.
+Unusual outbound network traffic could indicate data exfiltration.
+A sudden drop in system performance could indicate malware activity.
+An increase in the number of newly created user accounts could suggest a breach.
+Unexplained changes to system or user permissions could indicate malicious activity.
+A spike in network traffic during off hours could suggest unauthorized access.
+An increase in the number of error messages could indicate a cyber attack.
+Unusually large file transfers could suggest data exfiltration.
+Sudden changes in network behavior could indicate a potential threat.
+A new malware family has infected multiple endpoints in our organization.
+An insider is exfiltrating data from our network.
+A nation-state group is targeting our industry.
+A ransomware attack is imminent based on increased chatter on underground forums.
+An adversary is using a specific spearphishing technique to gain initial access.
+A particular web server is being targeted for exploitation.
+A new strain of a known malware family is being distributed.
+A botnet is being used to attack our infrastructure.
+A zero-day vulnerability is being exploited in our environment.
+An adversary is using a specific tool or framework to move laterally within our network.
+A new variant of a known APT group’s malware has been discovered.
+An insider is collaborating with an external threat actor.
+A misconfiguration in a cloud service is being exploited.
+A specific user account is being targeted for privilege escalation.
+A supply chain attack has compromised one of our vendors.
+A threat actor is using a new technique for evading detection.
+A new strain of a known ransomware family is being distributed.
+A specific network segment is being targeted for compromise.
+A mobile device is being used to access sensitive data.
+A threat actor is using a specific tool to exfiltrate data.
